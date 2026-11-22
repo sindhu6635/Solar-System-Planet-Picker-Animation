@@ -63,7 +63,7 @@ The main goal of this project is to improve my frontend development skills by ex
 
 ## 👨‍💻 Author
 
-Sindhu
+ G V Sindhu
 
 GitHub: [@sindhu6635](https://github.com/your-username)
 
